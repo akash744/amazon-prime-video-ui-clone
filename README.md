@@ -2,7 +2,15 @@
 
 
 
-TV Screen
+Home Page
+
+
+
+![homepage](https://user-images.githubusercontent.com/62128670/80666323-fde9db80-8aef-11ea-9e03-493d5fc0915f.gif)
+
+
+
+TV Page
 
 
 ![tv_screen](https://user-images.githubusercontent.com/62128670/80666154-8451ed80-8aef-11ea-849a-828b235d9048.gif)
