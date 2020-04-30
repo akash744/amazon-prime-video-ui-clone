@@ -2,6 +2,13 @@
 
 
 
+Movies Page
+
+
+![movies_screen](https://user-images.githubusercontent.com/62128670/80665965-07bf0f00-8aef-11ea-83ec-d6e72dfd221c.gif)
+
+
+
 Kids page 
 
 
